@@ -10,3 +10,4 @@ Sender: server|client
 
 ID: Base-10 packet id
 
+Packets in the log are raw, unencrypted, uncompressed with no length or id
